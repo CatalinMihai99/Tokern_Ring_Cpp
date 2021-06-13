@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\Cata\Desktop\Tema2MihaiCatalin\Project10\Source.cpp(17,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\Tema2MihaiCatalin\Project10\Source.cpp(59,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\Tema2MihaiCatalin\Project10\Source.cpp(62,41): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\Tema2MihaiCatalin\Project10\Source.cpp(72,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\Tema2MihaiCatalin\Project10\Source.cpp(77,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\Tema2MihaiCatalin\Project10\Source.cpp(87,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cata\Desktop\Tema2MihaiCatalin\Project10\Source.cpp(99,27): warning C4018: '<': signed/unsigned mismatch
+  Project10.vcxproj -> C:\Users\Cata\Desktop\Tema2MihaiCatalin\Debug\Project10.exe
